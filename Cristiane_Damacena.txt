@@ -8,3 +8,5 @@ Com a máquina devidamente configurada para uso do Git Hub, seguir os passos:
 5) Usar o comando "$ git status" para verificar as alterações pendentes no repositório local utilizado
 6) A partir do arquivos listados, usar o comando "$ git add Cristiane_Damacena.txt" para adicionar na lista que receberá commit
 7) Usar o comando "$ git commit -m "
+
+MUDEI
