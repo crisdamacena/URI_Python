@@ -10,3 +10,4 @@ Com a máquina devidamente configurada para uso do Git Hub, seguir os passos:
 7) Usar o comando "$ git commit -m "
 
 MUDEI
+Mudei novamente
