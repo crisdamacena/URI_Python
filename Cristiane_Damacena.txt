@@ -1,0 +1,10 @@
+Com a máquina devidamente configurada para uso do Git Hub, seguir os passos:
+
+1) Definir o repositório em que será feita a contribuição
+2) Utilizar o comando "$ git clone https://github.com/Olabi-PretaLab/CF-II-VersionamentoCodigos.git" para ter uma cópia do repositório de forma local em seu computador
+3) Navegar pelas pastas do computador até encontrar o local correto para fazer as alterações
+4) Usar "$ git checkout -b Cristiane-Damacena" para criar uma nova branch chamada Cristiane Damacena dentro do diretório escolhido
+5) Criar/editar documento e salvar
+5) Usar o comando "$ git status" para verificar as alterações pendentes no repositório local utilizado
+6) A partir do arquivos listados, usar o comando "$ git add Cristiane_Damacena.txt" para adicionar na lista que receberá commit
+7) Usar o comando "$ git commit -m "
